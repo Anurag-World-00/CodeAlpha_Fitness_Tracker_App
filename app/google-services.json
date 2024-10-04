@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878162945719",
+    "project_id": "mainkotlin-9d10d",
+    "storage_bucket": "mainkotlin-9d10d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878162945719:android:a4b62b59bb02f6a819cf32",
+        "android_client_info": {
+          "package_name": "com.codinghits.fitnesstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSSjswrx7dWWiOePihDxsP2Ts13R5Ps1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
